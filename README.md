@@ -18,7 +18,7 @@ This project presents the concept and application of one-dimensional cellular au
 # Installation
 Clone the repository and install required dependencies:
 ```bash
-gh repo clone Daion5/Neural-Network-based-on-Cellular-Automata
+gh repo clone DawidDziedzic2359/Neural-Network-based-on-Cellular-Automata
 cd Neural-Network-based-on-Cellular-Automata
 pip install -r requirements.txt
 ```
